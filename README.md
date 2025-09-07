@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hey there, I'm Ashwin!
 
-<!--
-**ashwin-0707/ashwin-0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital workspace! I’m a Computer Science and Engineering grad from Sri Ramakrishna Engineering College, India, who’s genuinely excited about turning ideas into solutions that make a difference. I thrive at the crossroads of data, design, and innovation, always chasing the next challenge.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 A Little About Me
+
+- **Curious Data Explorer:**  
+  I love digging into data and building smart systems—whether it’s Python, C++, Java, or MySQL, I’m at home finding patterns and creating machine learning models with tools like NumPy and PyTorch.
+
+- **Storyteller with Numbers:**  
+  MS Excel, Google Sheets, and PowerPoint aren’t just productivity tools—they’re my canvas for bringing insights to life, making complex info accessible and actionable.
+
+- **UX Enthusiast & Web Creator:**  
+  Figma is my playground for crafting intuitive user interfaces. I believe great design should feel effortless, so I’m always refining, testing, and learning what makes users tick.
+
+---
+
+## 🛠️ Projects That Make Me Proud
+
+### [Nail Disease Prediction](https://github.com/ashwin-0707/Nail-Disease-Prediction)
+AI meets healthcare: I built a system that detects early disease signs from fingernail images, extracting 13 unique features to help improve diagnostics. Tiny details, big impact!
+
+### [Cloud Kitchen Website](https://github.com/ashwin-0707/Cloud-Kitchen-Website)
+Solving real-world problems for restaurants and cloud kitchens. My platform streamlines operations for employees, owners, and customers—making food service smoother for everyone.
+
+### AR-Based Physiotherapy Using AI
+Imagine your physiotherapy sessions getting a tech boost! I created an AR-powered website that tracks exercises using MediaPipe, helping patients follow routines accurately and interactively.
+
+---
+
+## 💼 My Journey So Far
+
+- **Insights and Operations Strategist — Top Talent Bridge (May 2025–Present):**  
+  Every day is about making workflows smarter, data more meaningful, and teams more empowered. I love finding ways to improve processes and deliver results that matter.
+
+- **UI/UX Designer Intern (Sept 2023–Nov 2023):**  
+  Here, I got hands-on with designing an e-learning platform, making learning engaging, accessible, and visually delightful for users.
+
+---
+
+## 🏅 Certifications & Achievements
+
+- **From Zero to Pro Data Science & AI Advanced Full Course** — Udemy, 2025  
+- **Introduction to Industry 4.0 and IIoT** — NPTEL, 2023  
+- **Software Testing** — NPTEL, 2023  
+
+---
+
+## 🌱 What’s Next?
+
+I’m constantly learning—currently diving deeper into machine learning, unlocking new tricks in data visualization, and experimenting with AR/AI-powered web experiences. My goal? To keep building things that help, inspire, and solve real problems.
+
+---
