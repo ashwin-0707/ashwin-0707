@@ -25,7 +25,7 @@ AI meets healthcare: I built a system that detects early disease signs from fing
 ### [Cloud Kitchen Website](https://github.com/ashwin-0707/Cloud-Kitchen-Website)
 Solving real-world problems for restaurants and cloud kitchens. My platform streamlines operations for employees, owners, and customers—making food service smoother for everyone.
 
-### AR-Based Physiotherapy Using AI(https://github.com/ashwin-0707/AR-Based-Physiotherapy-using-AI)
+### [AR-Based Physiotherapy Using AI](https://github.com/ashwin-0707/AR-Based-Physiotherapy-using-AI)
 Imagine your physiotherapy sessions getting a tech boost! I created an AR-powered website that tracks exercises using MediaPipe, helping patients follow routines accurately and interactively.
 
 ---
