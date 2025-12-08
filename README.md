@@ -7,7 +7,7 @@ Welcome to my digital workspace! I’m a Computer Science and Engineering grad f
 ## 🚀 A Little About Me
 
 - **Curious Data Explorer:**  
-  I love digging into data and building smart systems—whether it’s Python, C++, Java, or MySQL, I’m at home finding patterns and creating machine learning models with tools like NumPy and PyTorch.
+  I love digging into data and building smart systems—whether it’s Python, C++, or MySQL, I’m at home finding patterns and creating machine learning models with tools like NumPy and PyTorch.
 
 - **Storyteller with Numbers:**  
   MS Excel, Google Sheets, and PowerPoint aren’t just productivity tools—they’re my canvas for bringing insights to life, making complex info accessible and actionable.
@@ -32,7 +32,7 @@ Imagine your physiotherapy sessions getting a tech boost! I created an AR-powere
 
 ## 💼 My Journey So Far
 
-- **Insights and Operations Strategist — Top Talent Bridge (May 2025–Present):**  
+- **Insights and Operations Strategist — Top Talent Bridge (May 2025– Nov 2025):**  
   Every day is about making workflows smarter, data more meaningful, and teams more empowered. I love finding ways to improve processes and deliver results that matter.
 
 - **UI/UX Designer Intern (Sept 2023–Nov 2023):**  
