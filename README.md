@@ -7,7 +7,7 @@ Welcome to my digital workspace!
 ## 🚀 A Little About Me
 
 - **Curious Data Explorer:**  
-  I love digging into data and building smart systems—whether it’s Python, C++, or MySQL, I’m at home finding patterns and creating machine learning models with tools like NumPy and PyTorch.
+  I love digging into data and building smart systems—whether it’s Python or MySQL, I’m at home finding patterns and creating machine learning models with tools like NumPy and PyTorch.
 
 - **Storyteller with Numbers:**  
   MS Excel, Google Sheets, and PowerPoint aren’t just productivity tools—they’re my canvas for bringing insights to life, making complex info accessible and actionable.
