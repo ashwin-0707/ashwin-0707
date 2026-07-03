@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ashwin!
 
-Welcome to my digital workspace! I’m a Computer Science and Engineering grad from Sri Ramakrishna Engineering College, India, who’s genuinely excited about turning ideas into solutions that make a difference. I thrive at the crossroads of data, design, and innovation, always chasing the next challenge.
+Welcome to my digital workspace! 
 
 ---
 
