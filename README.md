@@ -38,13 +38,7 @@ Imagine your physiotherapy sessions getting a tech boost! I created an AR-powere
 - **UI/UX Designer Intern (Sept 2023–Nov 2023):**  
   Here, I got hands-on with designing an e-learning platform, making learning engaging, accessible, and visually delightful for users.
 
----
 
-## 🏅 Certifications & Achievements
-
-- **From Zero to Pro Data Science & AI Advanced Full Course** — Udemy, 2025  
-- **Introduction to Industry 4.0 and IIoT** — NPTEL, 2023  
-- **Software Testing** — NPTEL, 2023  
 
 ---
 
