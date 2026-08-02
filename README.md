@@ -38,12 +38,5 @@ Imagine your physiotherapy sessions getting a tech boost! I created an AR-powere
 - **UI/UX Designer Intern (Sept 2023–Nov 2023):**  
   Here, I got hands-on with designing an e-learning platform, making learning engaging, accessible, and visually delightful for users.
 
-
-
 ---
 
-## 🌱 What’s Next?
-
-I’m constantly learning—currently diving deeper into machine learning, unlocking new tricks in data visualization, and experimenting with AR/AI-powered web experiences. My goal? To keep building things that help, inspire, and solve real problems.
-
----
