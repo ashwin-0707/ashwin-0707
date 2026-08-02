@@ -25,15 +25,15 @@
 
 ### 🛠️ Featured Projects That Make Me Proud
 
-#### 🩺 [Early Disease Detection Using Fingernails](https://github.com/ashwin-0707)
+#### 🩺 [Early Disease Detection Using Fingernails]([https://github.com/ashwin-0707](https://github.com/ashwin-0707/Nail-Disease-Prediction))
 *AI meets healthcare:* Built a diagnostic support system that analyzes fingernail images to detect early disease signs. Extracted and processed 13 unique diagnostic features to train predictive classification models.
 * **Tech Stack:** Python, PyTorch, OpenCV, NumPy
 
-#### 🍔 [Restaurant & Cloud Kitchen Platform](https://github.com/ashwin-0707)
+#### 🍔 [Restaurant & Cloud Kitchen Platform]([https://github.com/ashwin-0707](https://github.com/ashwin-0707/Cloud-Kitchen-Website))
 *Solving real-world operations:* Developed a full-stack multi-role web platform streamlining workflows for employees, restaurant owners, and customers. Features secure authentication, dynamic order tracking, and a robust relational database.
 * **Tech Stack:** Java, MySQL, HTML/CSS, JavaScript
 
-#### 🧘 [AR-Based Physiotherapy Assistant Using AI](https://github.com/ashwin-0707)
+#### 🧘 [AR-Based Physiotherapy Assistant Using AI]([https://github.com/ashwin-0707](https://github.com/ashwin-0707/AR-Based-Physiotherapy-using-AI))
 *Interactive health tech:* Created an AR-powered web assistant that monitors physical therapy routines in real-time. Built interactive dashboards tracking exercise repetitions, range of motion, timing, and accuracy.
 * **Tech Stack:** Python, MediaPipe, OpenCV, Flask
 
