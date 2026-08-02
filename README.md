@@ -1,12 +1,4 @@
-Here is a revamped, modern, and visually striking version of your GitHub profile README. 
 
-It keeps your warm, storytelling personality and love for data/UX, but elevates it with GitHub best practices: clean Markdown headers, visual badges, tech stack icons, and structured project callouts so it looks like a professional developer's workspace without feeling like a dry resume.
-
-***
-
-### 📋 Copy and paste this directly into your GitHub `README.md`:
-
-```markdown
 <h1 align="center">👋 Hey there, I'm Ashwin!</h1>
 <p align="center"><b>Master of Applied Computing Student @ University of Windsor</b><br>
 <i>Data Explorer | AI Enthusiast | Software Developer | Problem Solver</i></p>
