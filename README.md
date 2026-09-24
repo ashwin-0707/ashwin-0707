@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hey there, I'm Ashwin!</h1>
 <p align="center"><b>Master of Applied Computing Student @ University of Windsor</b><br>
-<i>Data Explorer | AI Enthusiast | Software Developer | Problem Solver</i></p>
+<i>Data Explorer | AI Enthusiast | Problem Solver</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
